@@ -1,0 +1,7 @@
+{
+  "name": "친구 갈등 해결 시뮬레이션 - 초등 5~6학년을 위한 마음 공감 교실",
+  "description": "교실에서 일어나는 8가지 현실적인 친구 갈등 상황을 체험하고, 선택지에 따른 상대방의 마음 하트 게이지 변화와 '나 전달법' 훈련을 통해 나의 갈등 대처 유형을 진단하는 초등 인성 시뮬레이션 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
